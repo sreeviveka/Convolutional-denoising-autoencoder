@@ -1,5 +1,6 @@
 # EXPERIMENT 07: CONVOLUTIONAL AUTOENCIDER FOR IMAGE DENOISING
-
+## NAME: V.S.Sree Viveka
+## REG NO: 2305001031
 ## AIM:
 To develop a convolutional autoencoder for image denoising application.
 
@@ -122,9 +123,8 @@ plt.show()
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/Convolutional-denoising-autoencoder/assets/93427256/50b68d34-7f7d-43fb-b6f7-9755542b3072)
+![WhatsApp Image 2025-11-11 at 08 50 36_c55d5c82](https://github.com/user-attachments/assets/60ca3cff-2444-4fe5-a8b7-ea037a879225)
 ### Original vs Noisy Vs Reconstructed Image:
-![image](https://github.com/Rithigasri/Convolutional-denoising-autoencoder/assets/93427256/1b23a3a8-3985-4683-a5c5-081682b64ebb)
-
+![WhatsApp Image 2025-11-11 at 08 50 43_4e2ecf67](https://github.com/user-attachments/assets/8065de31-17db-4eea-a4ab-9e20e07d512d)
 ## RESULT:
 Thus we have successfully developed a convolutional autoencoder for image denoising application.
